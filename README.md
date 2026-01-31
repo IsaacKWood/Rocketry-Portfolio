@@ -1,4 +1,4 @@
-## Rocketry Portfolio – Isaac Wood
+# Rocketry Portfolio – Isaac Wood
 
 I am an undergraduate Mechanical Engineering student with an Electrical Engineering minor, building hands-on engineering projects focused on mechanical design, iteration, and applied physics. This GitHub portfolio highlights independent projects developed outside of coursework and documented in accordance with professional engineering practices.
 
@@ -10,7 +10,7 @@ I am an undergraduate Mechanical Engineering student with an Electrical Engineer
 **Focus:** CAD design, structural iteration, applied rocketry physics  
 **Tools:** AutoCAD, FDM 3D Printing, OpenRocket, Python  
 
-# Rocket Project: Fuzebox
+## Rocket Project: Fuzebox
 (🔗 Repository: https://github.com/IsaacKWood/Fuzebox)
 
 ### Project Overview
