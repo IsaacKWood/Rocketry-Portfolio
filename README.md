@@ -41,7 +41,6 @@ The project consists of two major versions so far (P1 and P2), with design decis
 
 
 ## Tools & Skills
-
 - **CAD:** AutoCAD, Fusion 360  
 - **Manufacturing:** FDM 3D Printing  
 - **Simulation:** OpenRocket  
