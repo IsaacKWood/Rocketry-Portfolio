@@ -10,8 +10,8 @@ I am an undergraduate Mechanical Engineering student with an Electrical Engineer
 **Focus:** CAD design, structural iteration, applied rocketry physics  
 **Tools:** AutoCAD, FDM 3D Printing, OpenRocket, Python  
 
-🔗 **Project Repository:**  
-[Rocket Project:Fuzebox](🔗 Repository: https://github.com/IsaacKWood/Fuzebox)
+#[Rocket Project: Fuzebox]
+(🔗 Repository: https://github.com/IsaacKWood/Fuzebox)
 
 ### Project Overview
 Fuzebox is a personally designed and built high-power model rocket developed to strengthen my CAD skills and deepen my understanding of applied rocketry physics. I independently handled the full engineering cycle, including design, iteration, manufacturing, testing, and documentation.
