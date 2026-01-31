@@ -7,5 +7,5 @@ and manufacturing refinement through multiple prototypes.
 - Prototype iterations: P1 → P2
 - Emphasis on design iteration and documentation
 
-🔗 Repository: https://github.com/IsaacKWood/fuzebox-rocket
+🔗 Repository: https://github.com/IsaacKWood/Fuzebox
 
