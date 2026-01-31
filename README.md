@@ -39,7 +39,6 @@ The project consists of two major versions so far (P1 and P2), with design decis
 - Structural reinforcement through manufacturing strategy
 - Iterative improvement based on real flight experience
 
----
 
 ## Tools & Skills
 
