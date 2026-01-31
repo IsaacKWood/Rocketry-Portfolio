@@ -10,7 +10,7 @@ I am an undergraduate Mechanical Engineering student with an Electrical Engineer
 **Focus:** CAD design, structural iteration, applied rocketry physics  
 **Tools:** AutoCAD, FDM 3D Printing, OpenRocket, Python  
 
-#[Rocket Project: Fuzebox]
+**#Rocket Project: Fuzebox**
 (🔗 Repository: https://github.com/IsaacKWood/Fuzebox)
 
 ### Project Overview
