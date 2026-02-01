@@ -1,6 +1,6 @@
 # Rocketry Portfolio – Isaac Wood
 
-I am an undergraduate Mechanical Engineering student with an Electrical Engineering minor, building hands-on engineering projects focused on mechanical design, iteration, and applied physics. This GitHub portfolio highlights independent projects developed outside of coursework and documented in accordance with professional engineering practices.
+I am an undergraduate Mechanical Engineering student with an Electrical Engineering minor, building hands-on engineering rocketry projects focused on mechanical design, iteration, and applied physics. This GitHub portfolio highlights independent rockets and projects developed outside of coursework and documented in accordance with professional engineering practices.
 
 ---
 
